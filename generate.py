@@ -1,0 +1,3 @@
+from image_encoding import generateImageEncodings
+
+generateImageEncodings()
